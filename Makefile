@@ -4,5 +4,5 @@
 #
 # Alexander Rodgers
 # alexander.rodgers@bison.howard.edu
-heap_allocation: main.c
+list: main.c
 	gcc -o main main.c
